@@ -1,6 +1,8 @@
 {
     "name": "ryne-andal/gb-php-api",
     "description": "PHP API wrapper for the Giant Bomb Video Game DB.",
+    "license": "MIT",
+    "version": "0.1.0",
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
