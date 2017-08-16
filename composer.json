@@ -1,0 +1,16 @@
+{
+    "name": "ryne-andal/gb-php-api",
+    "description": "PHP API wrapper for the Giant Bomb Video Game DB.",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Ryne Andal",
+            "email": "ryne.andal@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^1.0"
+    }
+}
